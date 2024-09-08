@@ -1,0 +1,1 @@
+The project implements all neural networks in the textbook: Neural Networks and Deep Learning by Michael Nielsen.
